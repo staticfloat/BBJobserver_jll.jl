@@ -1,0 +1,211 @@
+[[BBJobserver]]
+arch = "aarch64"
+git-tree-sha1 = "442378b67869df313d7f92a53e9aa107b5350371"
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver.download]]
+    sha256 = "0ea06eea40e585e5af757a8fafec05102d994e2b02874a727f1d64123c1dad11"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-BBJobserver-v0.1.0-aarch64-linux-gnu.tar.gz"
+[[BBJobserver]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9d8aa244f618441bf51e3288f532e1c9ccb63bb7"
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver.download]]
+    sha256 = "3f254f99c1e329476639501259e346510c541374f4ea38b4e53df741914b7394"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-BBJobserver-v0.1.0-armv6l-linux-gnueabihf.tar.gz"
+[[BBJobserver]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "13a0537b8762aea50439e3678e958424b2d79f3d"
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver.download]]
+    sha256 = "754c285dc20a0f378000a255c9764a9a3aefb0eb3e024f48ebf1682cf13b48c4"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-BBJobserver-v0.1.0-armv7l-linux-gnueabihf.tar.gz"
+[[BBJobserver]]
+arch = "i686"
+git-tree-sha1 = "c6792359e0a1098b3838c64a6dcad9da29ea9284"
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver.download]]
+    sha256 = "bc3903fd93ff15cb8d1e607ffe9772f400e50f71a648aecb370ceff292278a3b"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-BBJobserver-v0.1.0-i686-linux-gnu.tar.gz"
+[[BBJobserver]]
+arch = "powerpc64le"
+git-tree-sha1 = "64875383db4a16dbed13433a7a3c350a93ab182e"
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver.download]]
+    sha256 = "3884fe3c78473e9ac32604b369c410b08ecde5e277b5d62d7d14bc5cb5673ea3"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-BBJobserver-v0.1.0-powerpc64le-linux-gnu.tar.gz"
+[[BBJobserver]]
+arch = "riscv64"
+git-tree-sha1 = "f36a71a9dea7e8adbd90ece7f89a76be36c220b4"
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver.download]]
+    sha256 = "8e5e183a665cc6f954d743d8d731e0d51b19e9722aba0d24d82826ad072045fa"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-BBJobserver-v0.1.0-riscv64-linux-gnu.tar.gz"
+[[BBJobserver]]
+arch = "x86_64"
+git-tree-sha1 = "bef8b36e084a4c921dbef171cd59de6c8f0d3001"
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver.download]]
+    sha256 = "17258a32d7ba9bdf54f535912fae164ba97267ab8e00c1642bf48b95d71f4bb8"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-BBJobserver-v0.1.0-x86_64-linux-gnu.tar.gz"
+
+[[BBJobserver-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "d91a5f6709b2135017cdc9905b030d53dce70292"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-build_log.download]]
+    sha256 = "76de8c103b29bf905b3e86fbd6662f3ea62d8f249148cabf5437b3be2dd9e0c8"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-build_log-v0.1.0-aarch64-linux-gnu.tar.gz"
+[[BBJobserver-build_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "59bd4c75ffc0c2d53a09bb54a15d449d5b169d7b"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-build_log.download]]
+    sha256 = "bfd5d365dd0ad0072b0776e635530efab1567757c8393ddbcf6c37960fa741a8"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-build_log-v0.1.0-armv6l-linux-gnueabihf.tar.gz"
+[[BBJobserver-build_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3aa6cde3bcc58054e02bd622070a82d9d8ec2926"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-build_log.download]]
+    sha256 = "776d9b45815cb95094fbb3d31abe8d86b0e9630b3c5651e7b04880204676b6e0"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-build_log-v0.1.0-armv7l-linux-gnueabihf.tar.gz"
+[[BBJobserver-build_log]]
+arch = "i686"
+git-tree-sha1 = "8ba152438971ca70075ebec916d78b08cc09018c"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-build_log.download]]
+    sha256 = "4d3fb229ad8d624407418412583de99eb37dfdd99e4778c5573c338b1cc022dd"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-build_log-v0.1.0-i686-linux-gnu.tar.gz"
+[[BBJobserver-build_log]]
+arch = "powerpc64le"
+git-tree-sha1 = "1ea0f65c7e72d69b2bc122142032b1868400f237"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-build_log.download]]
+    sha256 = "c0ee31019cd8b396052719f1793e9a025721bf9b7323709fb42ffe8453e89792"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-build_log-v0.1.0-powerpc64le-linux-gnu.tar.gz"
+[[BBJobserver-build_log]]
+arch = "riscv64"
+git-tree-sha1 = "86c6d7272537933fd2dd926db10439c0f89b6354"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-build_log.download]]
+    sha256 = "d3cba2467e4bf88e587ffa2c66f8169eabb998a673e3cf114a2e240e390a4aa1"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-build_log-v0.1.0-riscv64-linux-gnu.tar.gz"
+[[BBJobserver-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "f6cfdc4dc240529e940a8d7903dcde448c3d4b68"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-build_log.download]]
+    sha256 = "b20c54f9faa2769761ada6995b2fdde3c60719a482c4b35588f2eeef36bba069"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-build_log-v0.1.0-x86_64-linux-gnu.tar.gz"
+
+[[BBJobserver-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "07cb9c3f429abe2e809ea8dd4cc2c12ab0126c11"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-extract_log.download]]
+    sha256 = "03b598a1eb1aabd71cf1558295d715eaac8c4a768a8e7599332a3da6156c3bb5"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-extract_log-v0.1.0-aarch64-linux-gnu.tar.gz"
+[[BBJobserver-extract_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d2975022f3e3799cf67e810daf9ed2e7eb968516"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-extract_log.download]]
+    sha256 = "7dc6c283f29fcbb910f79df046fe90bc614b5eb5c14234dbdbe80a8c67149b26"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-extract_log-v0.1.0-armv6l-linux-gnueabihf.tar.gz"
+[[BBJobserver-extract_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "777dacbdf4992ca7b8df27fd2f98133de50eff95"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-extract_log.download]]
+    sha256 = "6c91cfa301e9f2c4dc139ab4987539a3fc271e2e79b8026538e2ea3e5d71693e"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-extract_log-v0.1.0-armv7l-linux-gnueabihf.tar.gz"
+[[BBJobserver-extract_log]]
+arch = "i686"
+git-tree-sha1 = "c8a4dfb7ee92dfa9e9bee3e720c62a5624f0de08"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-extract_log.download]]
+    sha256 = "cb9c3a83e4b652c85d900a4b5376e54a829765faa3d8ce3d2fcc6b4b8ff62d68"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-extract_log-v0.1.0-i686-linux-gnu.tar.gz"
+[[BBJobserver-extract_log]]
+arch = "powerpc64le"
+git-tree-sha1 = "6b9b5fc1fb915092fd7ebec7513d85218ead98d2"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-extract_log.download]]
+    sha256 = "d3ec6e1c4531fde19ecfe40cf51816a7fa4a23ae4e5a559e838485c6564d3168"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-extract_log-v0.1.0-powerpc64le-linux-gnu.tar.gz"
+[[BBJobserver-extract_log]]
+arch = "riscv64"
+git-tree-sha1 = "70d79b9a7f9d801e7ea45ace6af3bde25bfb50b7"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-extract_log.download]]
+    sha256 = "fea9befdf7604b6271aad4a4aab5cf9527d301c0c5018d344fd315db0012df44"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-extract_log-v0.1.0-riscv64-linux-gnu.tar.gz"
+[[BBJobserver-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "9c65058ca5443b4e7a5a22072a684feeebc03fa2"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[BBJobserver-extract_log.download]]
+    sha256 = "e39b49b25ef289e5f241245bffa12f109571371ca76606d756e9ca4f59053c7b"
+    url = "https://github.com/staticfloat/BBJobserver_jll.jl/releases/download/BBJobserver-v0.1.0-BBJobserver/BBJobserver-extract_log-v0.1.0-x86_64-linux-gnu.tar.gz"
